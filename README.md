@@ -1,1 +1,2 @@
 # Leads-tracker_a-chrome-extension
+A chrome extention that allows the user to keep track of leads/urls. It also uses the chrome.tab API to grab the current tab's url and the user can save this url as well.
